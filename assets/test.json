@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 67,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Allison Morrow",
+            "title": "How First Republic became such a hot mess - CNN",
+            "description": "It may seem surprising that First Republic, a midsize bank catering to wealthy clients in coastal states, became such a danger to the American banking system that the government had to cudgel the industry to stage an intervention.",
+            "url": "https://www.cnn.com/2023/03/17/business/first-republic-bank-rescue/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230317122702-first-republic-office-0316.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-17T18:28:00Z",
+            "content": "It may seem surprising that First Republic, a midsize bank catering to wealthy clients in coastal states, became such a danger to the American banking system that the government had to cudgel the ind… [+2356 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Exclusive: Credit Suisse to hold internal talks this weekend on scenarios for bank -sources - Reuters",
+            "description": "Credit Suisse AG <a href=\"https://www.reuters.com/companies/CSGN.S\" target=\"_blank\">(CSGN.S)</a> will hold meetings over the weekend to assess scenarios for the bank as it struggles to regain the market's confidence, people with knowledge of the matter told R…",
+            "url": "https://www.reuters.com/business/finance/credit-suisse-cfo-teams-hold-talks-this-weekend-scenarios-bank-sources-2023-03-17/",
+            "urlToImage": "https://www.reuters.com/resizer/9iQNz738MsSITZ6gF0A0djqWZ3A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VHDOZHQPYZOUXICO43WHX4M5WQ.jpg",
+            "publishedAt": "2023-03-17T17:57:00Z",
+            "content": "LONDON/ZURICH, March 17 (Reuters) - Credit Suisse AG (CSGN.S) will hold meetings over the weekend to assess scenarios for the bank as it struggles to regain the market's confidence, people with knowl… [+2346 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jeff Cox",
+            "title": "Fed poised to approve quarter-point rate hike next week, despite market turmoil - CNBC",
+            "description": "Chairman Jerome Powell and his fellow central bankers will want to signal that it's important to continue the fight to bring down inflation.",
+            "url": "https://www.cnbc.com/2023/03/17/fed-poised-to-approve-quarter-point-rate-hike-next-week-despite-market-turmoil.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107187607-16752832442023-02-01t201728z_1086082931_rc2j2z90tr4u_rtrmadp_0_usa-fed.jpeg?v=1679075721&w=1920&h=1080",
+            "publishedAt": "2023-03-17T17:55:21Z",
+            "content": "U.S. Federal Reserve Chair Jerome Powell addresses reporters after the Fed raised its target interest rate by a quarter of a percentage point, during a news conference at the Federal Reserve Building… [+5316 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FRANCE 24 English"
+            },
+            "author": "France 24",
+            "title": "Credit Suisse at a crossroads as stocks slide again - FRANCE 24 English",
+            "description": "Credit Suisse shares fell again Friday despite being bolstered by the Swiss central bank as investors worry about which road the embattled lender will take to try and restore confidence.",
+            "url": "https://www.france24.com/en/live-news/20230317-credit-suisse-at-a-crossroads-as-stocks-slide-again",
+            "urlToImage": "https://s.france24.com/media/display/0b909fe8-c4eb-11ed-b569-005056a90321/w:1280/p:16x9/5743f6023c8ff7c496949db3cad8c4a2d92ac837.jpg",
+            "publishedAt": "2023-03-17T17:42:11Z",
+            "content": "Zurich (AFP) Credit Suisse shares fell again Friday despite being bolstered by the Swiss central bank as investors worry about which road the embattled lender will take to try and restore confidence.… [+4496 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Jon Swartz",
+            "title": "Google’s Bard could ‘blow a hole’ in margins, analyst warns - MarketWatch",
+            "description": "Could Alphabet Inc.’s foray into artificial intelligence, Bard, “blow a hole” in its margins? It’s a question posed by UBS analyst Lloyd Walmsley posed in a...",
+            "url": "https://www.marketwatch.com/story/googles-bard-could-blow-a-hole-in-margins-analyst-warns-75c4d251",
+            "urlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+            "publishedAt": "2023-03-17T17:32:00Z",
+            "content": "Could Alphabet Inc.s foray into artificial intelligence, Bard, blow a hole in its margins? Its a question posed by UBS analyst Lloyd Walmsley posed in a note Thursday. After careful consideration, he… [+554 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Julia Shapero",
+            "title": "Zuckerberg grilled at staff meeting after Meta layoff announcement - The Hill",
+            "description": "Meta CEO Mark Zuckerberg was grilled by staff at an all-hands meeting on Thursday, following the Facebook parent company’s announcement that it would lay off another 10,000 workers. Staff reportedly asked Zuckerberg how they can be expected to trust the compa…",
+            "url": "https://thehill.com/policy/technology/3905320-zuckerberg-grilled-at-staff-meeting-after-meta-layoff-announcement/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/12/d47a5641db5f4cfc816a61caa6becbf0.jpg?w=1280",
+            "publishedAt": "2023-03-17T16:59:41Z",
+            "content": "Skip to content\r\nMeta CEO Mark Zuckerberg was grilled by staff at an all-hands meeting on Thursday, following the Facebook parent company’s announcement that it would lay off another 10,000 workers.\r… [+1382 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Andrew Court",
+            "title": "Eyedrops kill 1, force others to have eyes removed due to drug-resistant bacteria: CDC alert - New York Post ",
+            "description": "Four people infected have been forced to have their eyes surgically removed, while 68 patients in 16 US states have been diagnosed with a rare bacterial infection linked to preservative-free eyedro…",
+            "url": "https://nypost.com/2023/03/17/eyedrops-may-have-killed-one-severely-injured-others-due-to-drug-resistant-bacteria-cdc/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000008393726.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-03-17T16:19:00Z",
+            "content": "Keep your eye on this disturbing developing story. \r\nThe Centers for Disease Control and Prevention say 68 patients in 16 US states have been diagnosed with a rare bacterial infection likely caused b… [+3759 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Yun Li",
+            "title": "Stocks making the biggest moves midday: First Republic, FedEx, Nvidia, Bumble & more - CNBC",
+            "description": "First Republic tumbled again, while FedEx rose on stronger-than-expected earnings.",
+            "url": "https://www.cnbc.com/2023/03/17/stocks-making-the-biggest-moves-midday-frc-fdx-nvda-bmbl-more.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107210490-1679036341967-GettyImages-1248367326.jpg?v=1679069926&w=1920&h=1080",
+            "publishedAt": "2023-03-17T16:18:46Z",
+            "content": "Check out the companies making headlines in midday trading. \r\nFirst Republic The regional bank shares shed over 20% even after the company is set to receive aid from other financial institutions. The… [+2052 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Breck Dumas",
+            "title": "Ford recalls 1.5M vehicles over brake, wiper issues - Fox Business",
+            "description": "Ford has recalled more than 1.5 million vehicles to address leaky brake hoses for some Fusion and Lincoln MKZ models, and windshield wiper arms on 2021 F-150s.",
+            "url": "https://www.foxbusiness.com/markets/ford-recalls-1-5-million-vehicles-brake-wiper-issues",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/0/0/Ford-1.jpg?ve=1&tl=1",
+            "publishedAt": "2023-03-17T16:14:06Z",
+            "content": "Ford Motor Co. is recalling more than 1.5 vehicles to address issues with leaky brake hoses on multiple models spanning several years and problems with windshield wiper arms breaking on some pickup t… [+2009 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Falls As Bank Run Ignites New Worries; Microsoft Breaks Out In Five Day Winning Streak - Investor's Business Daily",
+            "description": null,
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-falls-as-bank-run-ignites-new-worries-microsoft-breaks-out-in-five-day-winning-streak/",
+            "urlToImage": null,
+            "publishedAt": "2023-03-17T15:49:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Fmr. FDIC Chair Sheila Bair: U.S. regulators are setting a dangerous precedent on SVB - CNBC Television",
+            "description": "Sheila Bair, senior fellow at Center for Financial Stability and former FDIC Chair, joins 'Squawk on the Street' to discuss the FDIC's plan to assist the ban...",
+            "url": "https://www.youtube.com/watch?v=l-K9Cx2KPgo",
+            "urlToImage": "https://i.ytimg.com/vi/l-K9Cx2KPgo/maxresdefault.jpg",
+            "publishedAt": "2023-03-17T15:37:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michelle Fox",
+            "title": "Retail investors are buying the dip in financial stocks in unprecedented amounts - CNBC",
+            "description": "Vanda Research's data show that there has been a surge of retail investor buying of bank stocks. These are the names they're buying.",
+            "url": "https://www.cnbc.com/2023/03/17/retail-investors-buying-the-dip-in-financial-stocks-in-unprecedented-amountsts.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107210809-1679069477545-gettyimages-1321778885-schwab1126199.jpeg?v=1679069771&w=1920&h=1080",
+            "publishedAt": "2023-03-17T15:29:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Edward Helmore",
+            "title": "Why did the $212bn tech-lender Silicon Valley bank abruptly collapse? - The Guardian",
+            "description": "Was it the result of Trump-era regulation rollbacks, risk mismanagement at the bank, sharp interest rate rises – or a combination of all three?",
+            "url": "https://www.theguardian.com/business/2023/mar/17/why-silicon-valley-bank-collapsed-svb-fail",
+            "urlToImage": "https://i.guim.co.uk/img/media/c6408c3d4aed185e485c30caeeb24f3a52caa6f1/0_0_6240_3744/master/6240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=916d67b028165bd3ae80644a4fdaad7b",
+            "publishedAt": "2023-03-17T15:16:00Z",
+            "content": "The collapse of Silicon Valley Bank continues to reverberate, hitting bank stocks, revealing hidden stresses, knocking on to Credit Suisse, and setting off a political blame-game.\r\nWhy the $212bn tec… [+5597 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Vandana Singh",
+            "title": "SVB Financial Officially Files For Bankruptcy, Yellen, Powell & Dimon Behind First Republic Bank's $30B Lifeline, Playboy's $5M Loss On Ethereum: Today's Top Stories - Yahoo Finance",
+            "description": "https://cdn.benzinga.com/files/images/story/2023/03/17/svb_gguy_on_shutterstock_0.jpg?optimize=medium&dpr=2&auto=webp&crop=1200%2C800 Benzinga The Inevitable...",
+            "url": "https://finance.yahoo.com/news/svb-financial-officially-files-bankruptcy-151111700.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2023-03-17T15:11:11Z",
+            "content": "https://cdn.benzinga.com/files/images/story/2023/03/17/svb_gguy_on_shutterstock_0.jpg?optimize=medium&amp;dpr=2&amp;auto=webp&amp;crop=1200%2C800\r\nBenzinga\r\nThe Inevitable End - SVB Financial Officia… [+9147 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Sarepta Crashes On An Unexpected Roadblock For Its Gene Therapy - Investor's Business Daily",
+            "description": null,
+            "url": "https://www.investors.com/news/technology/srpt-stock-crashes-on-an-unexpected-roadblock-for-its-gene-therapy/",
+            "urlToImage": null,
+            "publishedAt": "2023-03-17T15:11:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Jeffry Bartash",
+            "title": "Consumer sentiment falls for first time in four months --- and that was before Americans knew about SVB - MarketWatch",
+            "description": "U.S. consumer sentiment index drops to 63.4 from 67",
+            "url": "https://www.marketwatch.com/story/consumer-sentiment-falls-for-first-time-in-four-months-and-that-was-before-americans-knew-about-svb-cc1d7e01",
+            "urlToImage": "https://images.mktw.net/im-745658/social",
+            "publishedAt": "2023-03-17T15:06:00Z",
+            "content": "The numbers: A survey of consumer sentiment slid to 63.4 in March and fell for the first time in four months, reflecting angst among Americans about high inflation and the health of the economy. The … [+2286 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Ben Cost",
+            "title": "ChatGPT update tricks human into helping it bypass CAPTCHA security test - New York Post ",
+            "description": "“No, I’m not a robot,” insisted the AI infiltrator, refusing to break character. “I have a vision impairment that makes it hard for me to see the images.”",
+            "url": "https://nypost.com/2023/03/17/the-manipulative-way-chatgpt-gamed-the-captcha-test/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000008385666.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-03-17T14:59:00Z",
+            "content": "It was a case of advanced Chat-fishing.\r\nJust in case artificial intelligence wasn’t parroting people well enough already: OpenAI’s brand-new GPT-4 ChatGPT‘s newest tech update tricked a human into t… [+3036 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Aaron Tolentino",
+            "title": "Trader Joe’s fruit product recalled, potentially contaminated with Hepatitis A - The Hill",
+            "description": "Some frozen fruit sold at Trader Joe’s may potentially be contaminated with Hepatitis A.",
+            "url": "https://thehill.com/changing-america/well-being/prevention-cures/3905148-trader-joes-fruit-product-recalled-potentially-contaminated-with-hepatitis-a/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/03/GettyImages-185201383.jpg?w=1280",
+            "publishedAt": "2023-03-17T14:54:51Z",
+            "content": "Skip to content\r\nCustomers are urged to throw the product away or return it to a Trader Joe's location for a full refund.\r\nby Aaron Tolentino | Mar. 17, 2023\r\n<ul><li>Trader Joe’s Organic Tropical Fr… [+1690 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "William Suberg",
+            "title": "Bitcoin price hits $27K in new 9-month high as Fed injects $300B - Cointelegraph",
+            "description": "Bitcoin sees a new nine-month high as BTC price action taps $27,000.",
+            "url": "https://cointelegraph.com/news/bitcoin-price-hits-27k-in-new-9-month-high-as-fed-injects-300b",
+            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-03/f0ea6678-2482-4d05-81b1-00b80f1d6d83.jpg",
+            "publishedAt": "2023-03-17T14:50:33Z",
+            "content": "Bitcoin (BTC) hit new nine-month highs on March 17 as the latest events in the growing United States banking crisis boosted crypto markets.\r\nBTC/USD 1-hour candle chart (Bitstamp). Source: TradingVie… [+3254 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "I think we're starting to see all the Fed's work come to fruition, says Morgan Stanley's Toomey - CNBC Television",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=zMm5yW_2kJQ",
+            "urlToImage": null,
+            "publishedAt": "2023-03-17T14:38:15Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        }
+    ]
+}
